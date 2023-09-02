@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# CLion and CMake files
+cmake-build-debug-wsl
+cmake-build-relwithdebinfo-wsl
+.idea
